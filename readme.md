@@ -19,7 +19,8 @@ You’ll see logs like:
 ✅ Connected to Redis!
 🚀 Server running on :8080
 💾 Cache miss for user:1, querying DB...
-🔁 Cache hit for user:1
+✅ User 1 loaded from DB and cached, took 61.564613ms
+🔁 Cache hit for user:1, took 357.208µs
 ```
 
 ## Test API
