@@ -30,6 +30,7 @@ curl http://localhost:8080/user/1
 
 
 First request: Cache miss → loads from DB → caches in Redis
+
 Next requests: Cache hit → served from Redis (faster, less DB load)
 
 ## Benefits
