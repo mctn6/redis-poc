@@ -7,8 +7,8 @@ Simple POC showing how to use **Redis** for caching database queries in Go.
 Clone the repo and start services:
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/mctn6/redis-poc.git
+cd redis-poc
 docker-compose up --build
 ```
 
