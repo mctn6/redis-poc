@@ -35,5 +35,7 @@ Next requests: Cache hit → served from Redis (faster, less DB load)
 
 ## Benefits
 ⚡ Fast reads from in-memory Redis
+
 🛠 Reduces DB queries for frequent requests
+
 📈 Easy to scale read-heavy apps
